@@ -14,7 +14,7 @@
 
 # Cestas
 50, 100, 150, 200, 300
-Fotos
+[Fotos](./cestas abril.jpeg)
 
 
 ### 50
@@ -120,12 +120,12 @@ Cesta R$ 300,00
 - Farofa temporada
 - Sal
 - Chocolate em pó 
-- Caixa de chá
+- Pipoca 
 - Erva para terere 
 - Sardinha 
 - Salgadinho 
 - 4 refrigerante 
-- 1 mortadela 
+- Sazon 
 - Creme de leite
 - Leite condensado
 - Alho 150g
@@ -144,8 +144,8 @@ Cesta R$ 300,00
 - 1 detergente
 
 ## Marcas
-Arroz Prati o Imperatriz
-Café Flor da Serra
+- Arroz Prati o Imperatriz
+- Café Flor da Serra
 
 ## O que o cliente pode perguntar
 
