@@ -144,8 +144,7 @@ Cesta R$ 300,00
 - 1 detergente
 
 ## Marcas
-- Arroz Prati o Imperatriz
-- Café Flor da Serra
+- Arroz Prati ou Imperatriz
 
 ## O que o cliente pode perguntar
 
