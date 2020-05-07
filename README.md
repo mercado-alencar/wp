@@ -14,8 +14,8 @@
 
 # Cestas
 50, 100, 150, 200, 300
-[Fotos](./cestas abril.jpeg)
 
+Fotos: http://mercadoalencar.com.br/wp/cestas.jpeg
 
 ### 50
 Cesta R$ 50,00
